@@ -36,5 +36,4 @@ class MainActivityViewModel(private val dataUseCase: DataUseCase) : ViewModel() 
         }
     }
 
-    $ git remote add origin https://github.com/Artavazd-Khachatryan/Get-Lessons.git
 }
